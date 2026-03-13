@@ -4,7 +4,6 @@ An interactive HR Analytics Dashboard built in Power BI to analyze employee perf
 
 This dashboard helps HR teams and management make data-driven decisions related to employee productivity, workforce planning, and performance monitoring.
 
-
 🎯 Project Objective
 
 The goal of this project is to transform raw HR data into meaningful business insights using Power BI visualizations, DAX calculations, and interactive filters.
@@ -56,6 +55,7 @@ The dashboard highlights important HR metrics:
 These KPIs provide a quick overview of the overall workforce health and productivity.
 
 📊 Dashboard Features
+
 1️⃣ Department Analysis
 
 A bar chart visualizes total employees across departments, helping HR identify workforce distribution.
